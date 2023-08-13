@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints/
+# TODO: add dataset to its own repository
+/dataset/ 
+/logs/
+/venv/
+.idea
+api/saved_images
+/experiment
+.vscode
